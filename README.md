@@ -1,4 +1,6 @@
-# UO Felucca themed map for Unity
+# Pre-Felucca Ultima Online themed map for Unity
+
+Tested in Unity 2019.4.16f1
 
 Community map projects and base terrain scenes for Ultima games. Please contribute PRs!
 
